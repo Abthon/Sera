@@ -1,5 +1,5 @@
 # Sera
-A simple Collaboration Program Built w/ Java Swing
+A simple Collaboration Project Built w/ Java Swing
 
 
 ## Registration Page
