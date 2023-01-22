@@ -14,7 +14,7 @@ A simple Collaboration Program Built w/ Java Swing
 
 ## chatRoom Page
 <p align="center">
-  <img width="600" src="https://github.com/Abthon/Sera/blob/main/ScrenShots/joinChatRoom.jpg" alt="chatRoom Page Img">
+  <img width="600" src="https://github.com/Abthon/Sera/blob/main/ScrenShots/JoinChatRoom.jpg" alt="chatRoom Page Img">
 </p>
 
 ## WriteArticle Page
